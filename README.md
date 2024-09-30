@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I'm Vishal Kumar!
 
-<!--
-**vishalkumar999/vishalkumar999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a passionate software developer who loves coding, solving problems, and learning new technologies. I thrive on bringing ideas to life through code and exploring innovative solutions.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working as Full stack developer.
+
+🌱 I’m learning android development.
+
+💬 Ask me about Web development, Web designing, App development or Full Stack development.
+
+⚡ Fun fact: I enjoy watching superhero & horror movies.
+
+🛠️ Skills & Tools
+
+Languages: [Php, JavaScript, Python]
+
+Web Development: [HTML, CSS, React, Node.js, etc.]
+
+Databases: [SQL, MongoDB, etc.]
+
+Cloud & DevOps: [AWS]
+
+Others: [Git, CI/CD, Testing frameworks, etc.]
+
+📈 GitHub Stats
+
+💼 Featured Projects type
+
+E-Commerce, Astrology, Telecome Projects etc..
+
+🤝 Connect with Me
+
+Email: vishalpro9957@gmail.com
